@@ -11,7 +11,7 @@ Features:
 
 Locator
 
-![Image](../pic/locator.PNG)
+![Image](https://github.com/rickrick100/rickrick100.github.io/blob/master/pic/locator.PNG)
 
 Protyping Maps
 
