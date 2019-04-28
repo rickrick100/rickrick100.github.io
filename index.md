@@ -47,6 +47,6 @@ Syntax highlighted code block
 
 ### ETC
 
-For more details see [CBMS framework]((https://github.com/rickrick100/cbms)).
+For more details see [CBMS framework](https://github.com/rickrick100/cbms).
 
 
