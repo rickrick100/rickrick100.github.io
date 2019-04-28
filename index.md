@@ -11,6 +11,8 @@ Features:
 
 Locator
 
+![Image](../pic/locator.PNG)
+
 Protyping Maps
 
 Member Lookup
@@ -40,7 +42,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 
