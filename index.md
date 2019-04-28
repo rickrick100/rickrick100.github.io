@@ -14,7 +14,9 @@ Locator
 ![Image](https://github.com/rickrick100/rickrick100.github.io/blob/master/pic/locator.PNG)
 
 Protyping Maps
+
 ![Image](https://github.com/rickrick100/rickrick100.github.io/blob/master/pic/mapping.PNG)
+
 ![Image](https://github.com/rickrick100/rickrick100.github.io/blob/master/pic/kepler.PNG)
 
 Member Lookup
